@@ -3,7 +3,7 @@
 ## Overview
 This consolidated folder contains all 5 Java CWE-209 (Information Exposure Through an Error Message) test cases combined into a single project structure with one unified pom.xml file.
 
-## Consolidation Details
+## Consolidation Details..
 
 ### Before
 - `java-cwe209-01/` with pom.xml (Jakarta Servlet, SLF4J)
